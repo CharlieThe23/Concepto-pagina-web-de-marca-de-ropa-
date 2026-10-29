@@ -1,0 +1,6 @@
+{
+  "name": "NULL.SYS // Brutalist Y2K Utilitarian Streetwear",
+  "description": "Utilitarian streetwear flagship and terminal-inspired e-commerce for NULL.SYS, featuring tactical leather, baggy silhouettes, and brutalist Y2K aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

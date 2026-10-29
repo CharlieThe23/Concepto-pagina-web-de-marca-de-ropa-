@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan de implementación para la actualización del catálogo NULL.SYS:\n1. Retirar el Ángulo 02 ('Detalle Cuello y Ribetes') de la White Edition del Tracksuit Técnico en TracksuitProductView y data/products.ts.\n2. Reasignar el asset 40688AFF-4CD9-441F-AFE3-63C4EAAA9116_1107c892.PNG (jersey negro con logo y rostro en rojo) en IMAGE_REGISTRY como variante exclusiva del Jersey.\n3. Incorporar la 'VISTA 02' y la variante comercial 'Anime Distressed Knit - RED' en JerseyProductView y data/products.ts con selector de colorways, preservando el terminal scanning effect y la disciplina estética monocroma/industrial.\n4. Validar colisiones con validateImageUniqueness y compilar la aplicación.",
+  "updatedAt":  "2026-10-28T13:02:53.801066375Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
