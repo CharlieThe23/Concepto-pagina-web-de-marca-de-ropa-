@@ -41,6 +41,8 @@ El diseño industrial y brutalista suele presentar barreras de legibilidad. En l
 
 ## 🚀 Instalación y Uso Local
 
-1. Clona el repositorio:
+1. Enlace de la web: https://null-sys-brutalist-y2k-utilitarian-streetwear.ai.studio
+
+2. Clona el repositorio:
    ```bash
    git clone [https://github.com/tu-usuario/null-sys-web.git](https://github.com/tu-usuario/null-sys-web.git)
